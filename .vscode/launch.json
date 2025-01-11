@@ -2,6 +2,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "StackDemo",
+            "request": "launch",
+            "mainClass": "StackDemo",
+            "projectName": "tests_e63d8342"
+        },
+        {
+            "type": "java",
+            "name": "Number",
+            "request": "launch",
+            "mainClass": "Number",
+            "projectName": "tests_e63d8342"
+        },
+        {
+            "type": "java",
+            "name": "Fun",
+            "request": "launch",
+            "mainClass": "Fun",
+            "projectName": "tests_e63d8342"
+        },
+        {
+            "type": "java",
+            "name": "SpyNumber",
+            "request": "launch",
+            "mainClass": "SpyNumber",
+            "projectName": "tests_e63d8342"
+        },
+        {
+            "type": "java",
+            "name": "Encode",
+            "request": "launch",
+            "mainClass": "Encode",
+            "projectName": "tests_e63d8342"
+        },
+        {
+            "type": "java",
             "name": "Sort2D",
             "request": "launch",
             "mainClass": "Sort2D",
